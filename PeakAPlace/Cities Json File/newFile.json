@@ -1,0 +1,19 @@
+//
+//  newFile.swift
+//  PeakAPlace
+//
+//  Created by Ana Boyer on 11/25/18.
+//  Copyright © 2018 Ana Boyer. All rights reserved.
+//
+
+import Foundation
+{
+    "cities": [
+               {"city": "Abbeville", "state": "Louisiana"},
+               {"city": "Aberdeen", "state": "Maryland"},
+               {"city": "Aberdeen", "state": "Mississippi"},
+               {"city": "Aberdeen", "state": "South Dakota"},
+               {"city": "Aberdeen", "state": "Washington"},
+               {"city": "Abilene", "state": "Texas"}
+               ]
+}

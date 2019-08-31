@@ -1,0 +1,18 @@
+ [{"city": "Boston", "geoID": "60745"},
+  {"city": "Chicago", "geoID": "35805"},
+  {"city": "St.Louis", "geoID": "44881"},
+  {"city": "Los Angeles", "geoID": "32655"},
+  {"city": "Washington DC", "geoID": "28970" },
+  {"city": "San Francisco", "geoID": "60713" },
+  {"city": "Nashville", "geoID": "55229" },
+  {"city": "London", "geoID": "186338" },
+  {"city": "Madrid", "geoID": "187147" },
+  {"city": "Miami", "geoID": "34438" },
+  {"city": "Houston", "geoID": "56003" },
+  {"city": "Paris", "geoID": "187147" },
+  {"city": "Rome", "geoID": "187791" },
+  {"city": "Dubai", "geoID": "295424" },
+  {"city": "Sydney", "geoID": "255060" }
+
+    
+]
